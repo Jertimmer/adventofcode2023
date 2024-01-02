@@ -1081,6 +1081,8 @@ var sum = numericals.Sum(x => x);
 
 Console.WriteLine(sum);
 
+Console.WriteLine(sum);
+
 //
 //
 // var result = new int[input.Length];
