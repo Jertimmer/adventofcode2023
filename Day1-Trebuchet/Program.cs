@@ -1036,6 +1036,8 @@ using Newtonsoft.Json;
 
 var input = File.ReadAllLines("input.txt");
 
+var firstLine = input.First();
+
 //var jsonInput = JsonConvert.DeserializeObject<List<string>>(input);
 var allMatches = new Dictionary<string,string>();
 var regex = new Regex("\\d");
@@ -1078,8 +1080,6 @@ foreach (var x in input)
 
 var numericals = allMatches.Select(x => Int32.Parse(x.Value));
 var sum = numericals.Sum(x => x);
-
-Console.WriteLine(sum);
 
 Console.WriteLine(sum);
 
