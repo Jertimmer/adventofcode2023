@@ -1038,6 +1038,8 @@ var input = File.ReadAllLines("input.txt");
 
 var firstLine = input.First();
 
+Console.WriteLine(firstLine.ToLower());
+
 //var jsonInput = JsonConvert.DeserializeObject<List<string>>(input);
 var allMatches = new Dictionary<string,string>();
 var regex = new Regex("\\d");
