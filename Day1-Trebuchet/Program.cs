@@ -1036,7 +1036,7 @@ using Newtonsoft.Json;
 
 var input = File.ReadAllLines("input.txt");
 
-var firstLine = input.First();
+var firstLine = input.FirstOrDefault();
 
 Console.WriteLine(firstLine.ToLower());
 
