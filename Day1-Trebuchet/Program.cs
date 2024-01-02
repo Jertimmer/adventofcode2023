@@ -1036,6 +1036,10 @@ using Newtonsoft.Json;
 
 var input = File.ReadAllLines("input.txt");
 
+var firstLine = input.FirstOrDefault();
+
+Console.WriteLine(firstLine.ToLower());
+
 //var jsonInput = JsonConvert.DeserializeObject<List<string>>(input);
 var allMatches = new Dictionary<string,string>();
 var regex = new Regex("\\d");
