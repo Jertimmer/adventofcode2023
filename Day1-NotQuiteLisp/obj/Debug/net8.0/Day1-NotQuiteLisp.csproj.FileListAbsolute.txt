@@ -1,0 +1,14 @@
+C:\Repos\AdventOfCode2023\Day1-NotQuiteLisp\obj\Debug\net8.0\Day1-NotQuiteLisp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\AdventOfCode2023\Day1-NotQuiteLisp\obj\Debug\net8.0\Day1-NotQuiteLisp.AssemblyInfoInputs.cache
+C:\Repos\AdventOfCode2023\Day1-NotQuiteLisp\obj\Debug\net8.0\Day1-NotQuiteLisp.AssemblyInfo.cs
+C:\Repos\AdventOfCode2023\Day1-NotQuiteLisp\obj\Debug\net8.0\Day1-NotQuiteLisp.csproj.CoreCompileInputs.cache
+C:\Repos\AdventOfCode2023\Day1-NotQuiteLisp\bin\Debug\net8.0\Day1-NotQuiteLisp.exe
+C:\Repos\AdventOfCode2023\Day1-NotQuiteLisp\bin\Debug\net8.0\Day1-NotQuiteLisp.deps.json
+C:\Repos\AdventOfCode2023\Day1-NotQuiteLisp\bin\Debug\net8.0\Day1-NotQuiteLisp.runtimeconfig.json
+C:\Repos\AdventOfCode2023\Day1-NotQuiteLisp\bin\Debug\net8.0\Day1-NotQuiteLisp.dll
+C:\Repos\AdventOfCode2023\Day1-NotQuiteLisp\bin\Debug\net8.0\Day1-NotQuiteLisp.pdb
+C:\Repos\AdventOfCode2023\Day1-NotQuiteLisp\obj\Debug\net8.0\Day1-NotQuiteLisp.dll
+C:\Repos\AdventOfCode2023\Day1-NotQuiteLisp\obj\Debug\net8.0\refint\Day1-NotQuiteLisp.dll
+C:\Repos\AdventOfCode2023\Day1-NotQuiteLisp\obj\Debug\net8.0\Day1-NotQuiteLisp.pdb
+C:\Repos\AdventOfCode2023\Day1-NotQuiteLisp\obj\Debug\net8.0\Day1-NotQuiteLisp.genruntimeconfig.cache
+C:\Repos\AdventOfCode2023\Day1-NotQuiteLisp\obj\Debug\net8.0\ref\Day1-NotQuiteLisp.dll
